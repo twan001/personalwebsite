@@ -1,0 +1,29 @@
+.tabs{
+	background-color:white;	
+}
+
+a:link{
+	text-decoration: none;
+}
+
+button{
+	height: 25px;
+	width:	100px;
+	border: none;
+	background: none;
+	font-size: 20px;
+	color: black;
+	word-spacing: 30px
+}
+.Bio{
+	padding: 30px;
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: 20px;
+}
+
+.Extra{
+	padding: 20px;
+	font-size: 17px;
+	font-family: "Arial Black", Gadget, sans-serif;
+}
+
